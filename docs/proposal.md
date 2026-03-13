@@ -5,8 +5,8 @@
 | Name         | Role/Component                   | GitHub Username |
 | ------------ | -------------------------------- | --------------- |
 | Rajwant Kaur | Data Ingestion                   | @rajwant11      |
-| Deyon        | AI Phishing Analysis             |                 |
-| Amy          | Security Dashboard / Integration |                 |
+| Deyon        | AI Phishing Analysis             | @Randinu-W      |
+| Amy          | Security Dashboard / Integration | @amyag0730      |
 
 ---
 
