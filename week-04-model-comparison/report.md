@@ -1,4 +1,5 @@
-Model Comparison Report — Week 4
+**Model Comparison Report — Week 4
+
 
 Name: Rajwant Kaur
 Date: March 19, 2026
@@ -28,12 +29,13 @@ Groq Llama 3 8B (LLM classification)
 Evaluation criteria: label accuracy, confidence score, speed, ease of integration in n8n
 
 Results Summary
-Record	  Sentiment	          Zero-Shot	    NER Entitie         Groq
-1	 NEGATIVE (0.9983)	possible anomaly	[]	     HIGH
-2	 NEGATIVE (0.9928)	possible anomaly	[]	     INFORMATIONAL
-3	 NEGATIVE (0.9978)	possible anomaly	[]	     CRITICAL
-4	 NEGATIVE (0.9987)	possible anomaly	[]	     HIGH
-5	 NEGATIVE (0.9253)	routine activity	[]	     INFORMATIONAL
+Record	    Sentiment	          Zero-Shot	     NER Entitie           Groq
+1	    NEGATIVE (0.9983)	    possible anomaly	    []	             HIGH
+2	    NEGATIVE (0.9928)	    possible anomaly	    []	             INFORMATIONAL
+3	    NEGATIVE (0.9978)	    possible anomaly	    []	             CRITICAL
+4	    NEGATIVE (0.9987)	    possible anomaly	    []	             HIGH
+5	    NEGATIVE (0.9253)	    routine activity	    []	             INFORMATIONAL
+
 Analysis
 
 Where models agreed: The models agreed that the newsletter is normal and that phishing and suspicious emails are concerning.
@@ -46,7 +48,7 @@ Fastest/most practical: The Hugging Face models are faster and easier to use, bu
 
 Recommended Models for My Capstone Component
 
-Component: Email threat classification and alert severity detection
+**Component:** Email threat classification and alert severity detection
 
 Primary model: Groq Llama 3 8B — It provides clear severity classification with reasoning, which is useful for security decisions.
 
