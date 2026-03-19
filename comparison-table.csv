@@ -1,0 +1,12 @@
+﻿input_text,model_1_sentiment_label,model_1_sentiment_score,model_2_zeroshot_label,model_2_zeroshot_score,model_3_ner_entities,model_4_groq_classification,notes,tested_at
+Phishing email detected claiming to be from PayPal asking the user to verify their account through an external link.,NEGATIVE,0.9983,possible anomaly,0.8,[],"UNKNOWN
+
+The lack of context or information provided makes it difficult to classify the severity level of the alert.",,3/19/2026
+Email from IT department notifying employees about a scheduled password reset maintenance window.,NEGATIVE,0.9928,possible anomaly,0.7,[],"INFORMATIONAL
+
+The alert is informational because it appears to be a templated placeholder indicating the input text variable, which does not seem to be a specific, actionable security event.",,3/19/2026
+"Suspicious email with attachment ""invoice_urgent.zip"" sent from an unknown external sender requesting immediate payment.",NEGATIVE,0.9978,possible anomaly,0.8,[],"LOW: This alert appears to be a log entry from a templating engine, likely an informational message with user-submitted input, rather than a security threat.",,3/19/2026
+Multiple emails pretending to be from the company CEO asking employees to purchase gift cards urgently.,NEGATIVE,0.9987,possible anomaly,0.9,[],"INFORMATIONAL: This alert appears to be a placeholder or template output, lacking specific security-related context or indicators.",,3/19/2026
+Regular internal company newsletter sent to employees with updates about upcoming events.,NEGATIVE,0.9253,routine activity,1.0,[],"INFORMATIONAL
+
+The alert is informational because it contains a string variable named ""input_text"" without specifying any specific security concern or threat.",,3/19/2026
