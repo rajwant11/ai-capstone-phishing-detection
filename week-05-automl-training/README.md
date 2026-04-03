@@ -16,4 +16,4 @@ Tested 3 models on 5 security-themed text records:
 ## Recommendation
 I recommend **Fine-Tuned B (RoBERTa)** for my capstone because it provided the most accurate "Spam" vs "No spam" labels with high confidence (>99% on most records).
 
-*Full details in `report.md`.*
+*Full details in `report.md.*
