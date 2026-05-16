@@ -16,4 +16,4 @@ An IF validation branch will be added to the n8n ingestion workflow. If alert_te
 - invalid records will be prevented from continuing through the AI pipeline
 
 ## Screenshot
-- error-empty-input.png
+- error-empty-input.png 
